@@ -8,12 +8,12 @@ class Program
         List<Pets> petList = new List<Pets>();
         
         // Making pets
-        Bunny myBunny1 = new Bunny("Bobo");
-        Bunny myBunny2 = new Bunny("Ellie");
-        Dog myDog1 = new Dog("Freia");
-        Dog myDog2 = new Dog("Luna", "loud breathing sounds", "always hungry");
-        Fish myFish1 = new Fish("Stor Laksen", "mrrglrrglrrr", "jump");
-        Fish myFish2 = new Fish("Børret");
+        Pets myBunny1 = new Bunny("Bobo");
+        Pets myBunny2 = new Bunny("Ellie");
+        Pets myDog1 = new Dog("Freia");
+        Pets myDog2 = new Dog("Luna", "loud breathing sounds", "always hungry");
+        Pets myFish1 = new Fish("Stor Laksen", "mrrglrrglrrr", "jump");
+        Pets myFish2 = new Fish("Børret");
         
         // Adding pets to list
         petList.Add(myBunny1);
