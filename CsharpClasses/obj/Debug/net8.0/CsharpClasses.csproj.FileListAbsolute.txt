@@ -1,0 +1,14 @@
+C:\GAprojects\CsharpClasses\CsharpClasses\bin\Debug\net8.0\CsharpClasses.exe
+C:\GAprojects\CsharpClasses\CsharpClasses\bin\Debug\net8.0\CsharpClasses.deps.json
+C:\GAprojects\CsharpClasses\CsharpClasses\bin\Debug\net8.0\CsharpClasses.runtimeconfig.json
+C:\GAprojects\CsharpClasses\CsharpClasses\bin\Debug\net8.0\CsharpClasses.dll
+C:\GAprojects\CsharpClasses\CsharpClasses\bin\Debug\net8.0\CsharpClasses.pdb
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.AssemblyInfoInputs.cache
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.AssemblyInfo.cs
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.csproj.CoreCompileInputs.cache
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.dll
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\refint\CsharpClasses.dll
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.pdb
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\CsharpClasses.genruntimeconfig.cache
+C:\GAprojects\CsharpClasses\CsharpClasses\obj\Debug\net8.0\ref\CsharpClasses.dll
